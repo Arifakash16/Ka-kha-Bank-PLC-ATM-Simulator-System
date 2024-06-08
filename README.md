@@ -1,5 +1,5 @@
-Ka-Kha-Bank-PLC ATM Simulator System
-Project History
+#Ka-Kha-Bank-PLC ATM Simulator System
+#Project History
 Welcome to the Ka-Kha-Bank-PLC ATM Simulator System! This project was created to provide a comprehensive simulation of an ATM system using Java (version 17), MySQL for database management, and Swing for the graphical user interface (GUI).
 
 Genesis
