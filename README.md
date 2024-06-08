@@ -1,9 +1,7 @@
 # Ka-Kha-Bank-PLC ATM Simulator System
 
 # Project History
-
-Welcome to the Ka-Kha-Bank-PLC ATM Simulator System! This project was created to provide a comprehensive simulation of an ATM system using Java (version 17), MySQL for database management, and Swing for the graphical user interface (GUI).
-The inspiration for this project came from a desire to understand and implement the core functionalities of an ATM system, which is an integral part of modern banking. The aim was to create a realistic simulation that mimics the operations of an ATM, allowing users to perform essential banking transactions.
+Welcome to the Ka-Kha-Bank-PLC ATM Simulator System! This project was created to provide a comprehensive simulation of an ATM system using Java (version 17), MySQL for database management, and Swing for the graphical user interface (GUI).The inspiration for this project came from a desire to understand and implement the core functionalities of an ATM system, which is an integral part of modern banking. The aim was to create a realistic simulation that mimics the operations of an ATM, allowing users to perform essential banking transactions.
 
 
 # Development Journey
@@ -16,7 +14,7 @@ The development journey began with a focus on the core features of an ATM:
    
 # Key Features
   1. Login & Logout: Secure user authentication to protect user data.
-  2. Account Registration: Simple and straightforward account creation process.
+  2. Account Registration: Simple and straight forward account creation process.
   3. Cash Management: Functions to add, withdraw, and deposit cash seamlessly.
   4. Change PIN: An easy way for users to update their security credentials.
   5. Mini Statement: Quick access to recent transaction history for user convenience.
